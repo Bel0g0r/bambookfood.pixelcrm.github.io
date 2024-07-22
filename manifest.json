@@ -2,19 +2,19 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "Bambook Food",
-  "short_name": "Bambook Food",
+  "name": "Бамбук",
+  "short_name": "Бамбук",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "ru.pixelcrm.app.starfish"
+      "id": "ru.pixelcrm.app.lunchhouse"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=ru.pixelcrm.app.starfish",
-      "id": "ru.pixelcrm.app.starfish"
+      "url": "http://play.google.com/store/apps/details?id=ru.pixelcrm.app.lunchhouse",
+      "id": "ru.pixelcrm.app.lunchhouse"
     }
   ],
   "prefer_related_applications": true

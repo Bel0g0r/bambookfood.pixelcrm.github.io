@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bambookfood.pixelcrm.github.io/static/css/main.9f024479.css",
-    "main.js": "/bambookfood.pixelcrm.github.io/static/js/main.b66618d7.js",
-    "static/js/356.17170683.js": "/bambookfood.pixelcrm.github.io/static/js/356.17170683.js",
+    "main.js": "/bambookfood.pixelcrm.github.io/static/js/main.b2a37f3e.js",
+    "static/js/491.86c42f5b.js": "/bambookfood.pixelcrm.github.io/static/js/491.86c42f5b.js",
     "static/media/MaterialCommunityIcons.ttf": "/bambookfood.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/bambookfood.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/MaterialIcons.ttf": "/bambookfood.pixelcrm.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
@@ -30,12 +30,12 @@
     "manifest.json": "/bambookfood.pixelcrm.github.io/manifest.json",
     "serve.json": "/bambookfood.pixelcrm.github.io/serve.json",
     "main.9f024479.css.map": "/bambookfood.pixelcrm.github.io/static/css/main.9f024479.css.map",
-    "main.b66618d7.js.map": "/bambookfood.pixelcrm.github.io/static/js/main.b66618d7.js.map",
-    "356.17170683.js.map": "/bambookfood.pixelcrm.github.io/static/js/356.17170683.js.map"
+    "main.b2a37f3e.js.map": "/bambookfood.pixelcrm.github.io/static/js/main.b2a37f3e.js.map",
+    "491.86c42f5b.js.map": "/bambookfood.pixelcrm.github.io/static/js/491.86c42f5b.js.map"
   },
   "entrypoints": [
-    "static/js/356.17170683.js",
+    "static/js/491.86c42f5b.js",
     "static/css/main.9f024479.css",
-    "static/js/main.b66618d7.js"
+    "static/js/main.b2a37f3e.js"
   ]
 }
