@@ -2,19 +2,19 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "Бамбук",
-  "short_name": "Бамбук",
+  "name": "Дело в роллах",
+  "short_name": "Дело в роллах",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "ru.pixelcrm.app.lunchhouse"
+      "id": "ru.pixelcrm.app.sushi"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=ru.pixelcrm.app.lunchhouse",
-      "id": "ru.pixelcrm.app.lunchhouse"
+      "url": "http://play.google.com/store/apps/details?id=ru.pixelcrm.app.sushi",
+      "id": "ru.pixelcrm.app.sushi"
     }
   ],
   "prefer_related_applications": true
