@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "Дело в роллах",
-  "short_name": "Дело в роллах",
+  "name": "Бамбук",
+  "short_name": "Бамбук",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
